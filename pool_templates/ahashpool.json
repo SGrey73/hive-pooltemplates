@@ -1,0 +1,600 @@
+[
+    {
+        "coin": "Multi-blake2s",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "blake2s.mine.ahashpool.com:5766"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "blake2s",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "blake2s",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-bitcore",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "bitcore.mine.ahashpool.com:3556"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "bitcore",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "bitcore",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-c11",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "c11.mine.ahashpool.com:3573"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "c11",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "c11",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-groestl",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "groestl.mine.ahashpool.com:5333"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "groestl",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "groestl",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-hmq1725",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "hmq1725.mine.ahashpool.com:3747"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "hmq1725",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "hmq1725",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-hsr",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "hsr.mine.ahashpool.com:7433"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "hsr",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "hsr",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-keccak",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "keccak.mine.ahashpool.com:5133"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "keccak",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "keccak",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-lbry",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "lbry.mine.ahashpool.com:3334"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "lbry",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "lbry",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-lyra2v2",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "lyra2v2.mine.ahashpool.com:4533"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "lyra2v2",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "lyra2v2",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-lyra2z",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "lyra2z.mine.ahashpool.com:4553"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "lyra2z",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "lyra2z",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-m7m",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "m7m.mine.ahashpool.com:6033"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "m7m",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "m7m",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-myr-gr",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "myr-gr.mine.ahashpool.com:5433"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "myr-gr",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "myr-gr",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-neoscrypt",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "neoscrypt.mine.ahashpool.com:4233"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "neoscrypt",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "neoscrypt",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-phi",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "phi.mine.ahashpool.com:8333"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "phi",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "phi",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-phi2",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "phi2.mine.ahashpool.com:8332"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "phi2",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "phi2",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-sib",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "sib.mine.ahashpool.com:5033"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "sib",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "sib",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-skein",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "skein.mine.ahashpool.com:4933"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "skein",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "skein",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-skunk",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "skunk.mine.ahashpool.com:8433"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "skunk",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "skunk",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-tribus",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "tribus.mine.ahashpool.com:8533"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "tribus",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "tribus",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-x17",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "x17.mine.ahashpool.com:3737"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "x17",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "x17",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-xevan",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "xevan.mine.ahashpool.com:3739"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "xevan",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "xevan",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-yescrypt",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "yescrypt.mine.ahashpool.com:6333"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "yescrypt",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "yescrypt",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "Multi-x16r",
+        "servers": [
+            {
+                "geo": null,
+                "urls"[
+                    "x16r.mine.ahashpool.com:3636"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccalgo": "x16r",
+                "ccpass": "c=BTC"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "x16r",
+                "pass": "c=BTC", 
+                "template": "%WAL%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    }
+]

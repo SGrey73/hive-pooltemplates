@@ -1,0 +1,40 @@
+[
+    {
+        "coin": "SMART",
+        "servers": [
+            {            
+                "geo": "Europe",
+                "urls": [
+                    "us-mine.smartcash.cc:3256"
+                ]
+            },
+            {            
+                "geo": "USA",
+                "urls": [
+                    "eu-mine.smartcash.cc:3256"
+                ]
+            },
+            {            
+                "geo": "Asia",
+                "urls": [
+                    "asia-mine.smartcash.cc:3256"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%.%WORKER_NAME%",
+                "ccalgo": "keccak",
+                "ccpass": "x"
+            },
+            "sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+                "algo": "keccak",
+                "pass": "x", 
+                "template": "%WAL%.%WORKER_NAME%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    }
+]

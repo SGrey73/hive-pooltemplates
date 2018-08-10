@@ -1,0 +1,48 @@
+[
+	{
+		"coin": "XMR",
+		"servers": [
+			{
+				"geo": "Low-End",
+				"urls": [
+					"monerohash.com:2222"
+				]
+			},		
+			{
+				"geo": "Mid range",
+				"urls": [
+					"monerohash.com:5555"
+				]
+			},
+			{
+				"geo": "High-End",
+				"urls": [
+					"monerohash.com:7777"
+				]
+			},
+			{
+				"geo": "////",
+				"urls": [
+					"monerohash.com:9999"
+				]
+			},
+			{
+				"geo": "////",
+				"urls": [
+					"monerohash.com:80"
+				]
+			}
+		],
+		"miners":{
+			"claymore": {
+				"epools_tpl": "POOL: %URL%, WALLET: %WAL%, PSW: x"
+			},
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%.%WORKER_NAME%",
+                "ccalgo": "cryptonight_v7",
+                "ccpass": "x"
+            }
+		}
+	}
+]

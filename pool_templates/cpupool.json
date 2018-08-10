@@ -1,0 +1,28 @@
+[
+	{
+		"coin": "CRP",
+		"servers": [
+			{
+				"geo": null,
+				"urls": [
+					"cpu-pool.com:63358"
+				]
+			}
+		],
+		"miners": {
+		}
+	},
+	{
+		"coin": "ELI",
+		"servers": [
+			{
+				"geo": null,
+				"urls": [
+					"cpu-pool.com:63348"
+				]
+			}
+		],
+		"miners": {
+		}
+	}
+]

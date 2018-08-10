@@ -1,0 +1,194 @@
+[
+	{
+        "coin": "AKA",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "aka.pool.sexy:20022"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+				}
+        }
+    },
+    {
+        "coin": "CLO",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "clo.pool.sexy:20052"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+        	}
+        }
+    },
+    {
+        "coin": "DBIX",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "dbix.pool.sexy:10032"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+				}
+        }
+    },
+    {
+        "coin": "ELLA",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "ella.pool.sexy:10082"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+				}
+        }
+    },
+    {
+        "coin": "ETC",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "etc.pool.sexy:10042"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+				}
+        }
+    },
+    {
+        "coin": "ETH",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "eth.pool.sexy:10002"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+				}
+        }
+    },
+    {
+        "coin": "ETHO",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "etho.pool.sexy:20032"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, 	EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+				}
+        }
+    },
+    {
+        "coin": "MUSIC",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "music.pool.sexy:10012"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+				}
+        }
+    },
+    {
+        "coin": "PIRL",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "pirl.pool.sexy:10052"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+				}
+        }
+    },
+    {
+        "coin": "GOL",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "gol.pool.sexy:20012"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+				}
+        }
+    },
+    {
+        "coin": "UBQ",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "ubq.pool.sexy:20042"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+				}
+        }
+    },
+    {
+        "coin": "MOAC",
+        "servers": [
+            {            
+                "geo": "null",
+                "urls": [
+                    "moac.pool.sexy:10092"
+                ]
+            }
+        ],
+        "miners": {
+            "claymore": {
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+				}
+        }
+    }
+]

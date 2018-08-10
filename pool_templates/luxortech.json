@@ -1,0 +1,251 @@
+[
+	{
+		"coin": "SIA",
+		"servers": [
+			{
+				"geo": "US West",
+				"urls": [
+					"us-west.luxor.tech:3333"
+				]
+			},		
+			{
+				"geo": "Us East",
+				"urls": [
+					"us-east.luxor.tech:3333"
+				]
+			},
+			{
+				"geo": "Europe",
+				"urls": [
+					"eu.luxor.tech:3333"
+				]
+			},
+			{
+				"geo": "Asia",
+				"urls": [
+					"asia.luxor.tech:3333"
+				]
+			}
+		],
+		"miners":{
+		}
+	},
+	{
+		"coin": "DCR",
+		"servers": [
+			{
+				"geo": "US West",
+				"urls": [
+					"us-west.luxor.tech:4445"
+				]
+			},		
+			{
+				"geo": "Us East",
+				"urls": [
+					"us-east.luxor.tech:4445"
+				]
+			},
+			{
+				"geo": "Europe",
+				"urls": [
+					"eu.luxor.tech:4445"
+				]
+			},
+			{
+				"geo": "Asia",
+				"urls": [
+					"asia.luxor.tech:4445"
+				]
+			}
+		],
+		"miners":{
+		}
+	},
+	{
+		"coin": "LBRY",
+		"servers": [
+			{
+				"geo": "US West",
+				"urls": [
+					"us-west.luxor.tech:5555"
+				]
+			},		
+			{
+				"geo": "Us East",
+				"urls": [
+					"us-east.luxor.tech:5555"
+				]
+			},
+			{
+				"geo": "Europe",
+				"urls": [
+					"eu.luxor.tech:5555"
+				]
+			},
+			{
+				"geo": "Asia",
+				"urls": [
+					"asia.luxor.tech:5555"
+				]
+			}
+		],
+		"miners":{
+		}
+	},
+	{
+		"coin": "LOKI",
+		"servers": [		
+			{
+				"geo": "USA",
+				"urls": [
+					"loki-us.luxor.tech:9999"
+				]
+			},
+			{
+				"geo": "Europe",
+				"urls": [
+					"loki-eu.luxor.tech:9999"
+				]
+			},
+			{
+				"geo": "Asia",
+				"urls": [
+					"loki-asia.luxor.tech:9999"
+				]
+			},
+			{
+				"geo": "Australia",
+				"urls": [
+					"loki-au.luxor.tech:9999"
+				]
+			}
+		],
+		"miners":{
+		}
+	},
+	{
+		"coin": "AION",
+		"servers": [		
+			{
+				"geo": "USA",
+				"urls": [
+					"aion-usluxor.tech:3366"
+				]
+			},
+			{
+				"geo": "Europe",
+				"urls": [
+					"aion-eu.luxor.tech:3366"
+				]
+			},
+			{
+				"geo": "Asia",
+				"urls": [
+					"aion-asia.luxor.tech:3366"
+				]
+			}
+		],
+		"miners":{
+		}
+	},
+	{
+		"coin": "XMR",
+		"servers": [		
+			{
+				"geo": "USA",
+				"urls": [
+					"xmr-usluxor.tech:8888"
+				]
+			},
+			{
+				"geo": "Europe",
+				"urls": [
+					"xmr-eu.luxor.tech:8888"
+				]
+			},
+			{
+				"geo": "Asia",
+				"urls": [
+					"xmr-asia.luxor.tech:8888"
+				]
+			}
+		],
+		"miners":{
+		}
+	},
+	{
+		"coin": "ZEC",
+		"servers": [		
+			{
+				"geo": "USA",
+				"urls": [
+					"zec-usluxor.tech:6666"
+				]
+			},
+			{
+				"geo": "Europe",
+				"urls": [
+					"zec-eu.luxor.tech:6666"
+				]
+			},
+			{
+				"geo": "Asia",
+				"urls": [
+					"zec-asia.luxor.tech:6666"
+				]
+			}
+		],
+		"miners":{
+		}
+	},
+	{
+		"coin": "ZEN",
+		"servers": [		
+			{
+				"geo": "USA",
+				"urls": [
+					"zen-usluxor.tech:6677"
+				]
+			},
+			{
+				"geo": "Europe",
+				"urls": [
+					"zen-eu.luxor.tech:6677"
+				]
+			},
+			{
+				"geo": "Asia",
+				"urls": [
+					"zen-asia.luxor.tech:6677"
+				]
+			}
+		],
+		"miners":{
+		}
+	},
+	{
+		"coin": "ZEN",
+		"servers": [		
+			{
+				"geo": "USA",
+				"urls": [
+					"zen-usluxor.tech:6677"
+				]
+			},
+			{
+				"geo": "Europe",
+				"urls": [
+					"zen-eu.luxor.tech:6677"
+				]
+			},
+			{
+				"geo": "Asia",
+				"urls": [
+					"zen-asia.luxor.tech:6677"
+				]
+			}
+		],
+		"miners":{
+		}
+	}
+]

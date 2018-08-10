@@ -1,0 +1,30 @@
+[
+	{
+		"coin": "XMR",
+		"servers": [
+			{
+				"geo": "null",
+				"urls": [
+					"gulf.moneroocean.stream:10001"
+				]
+			}
+		],
+		"miners": {
+			"xmrig": {
+				"url": "%URL%",
+				"pass": "////",
+				"template": "%WAL%",
+				"user_config": "\"algo\": \"cryptonight/1\""
+			},
+			"xmr-stak": {
+				"amd": "\"gpu_threads_conf\" : [], \"platform_index\" : 0,",
+				"cpu": "\"cpu_threads_conf\" : [],",
+				"url": "%URL%",
+				"pass": "////",
+				"nvidia": "\"gpu_threads_conf\" : [], \"platform_index\" : 1,",
+				"template": "%WAL%",
+				"user_config": "\"currency\": \"monero7\""
+			}		
+		}	
+	}
+]

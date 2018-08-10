@@ -1,0 +1,55 @@
+[
+	{
+		"coin": "YTN",
+		"servers": [
+			{
+				"geo": "Low-End",
+				"urls": [
+					"stratum.luckypool.org:3311",
+					"stratum.luckypool.org:3344"
+				]
+			},		
+			{
+				"geo": "Mid range",
+				"urls": [
+					"stratum.luckypool.org:3355",
+					"stratum.luckypool.org:3333"
+				]
+			},
+			{
+				"geo": "High-End",
+				"urls": [
+					"stratum.luckypool.org:3399"
+				]
+			}
+		],
+		"miners":{
+		}
+	},
+	{
+		"coin": "CRP",
+		"servers": [
+			{
+				"geo": "Low-End",
+				"urls": [
+					"cryply.luckypool.org:9996",
+					"cryply.luckypool.org:9997"
+				]
+			},		
+			{
+				"geo": "Mid range",
+				"urls": [
+					"cryply.luckypool.org:9998"
+				]
+			},
+			{
+				"geo": "High-End",
+				"urls": [
+					"cryply.luckypool.org:9999"
+				]
+			}
+		],
+		"miners":{
+		}
+	}
+]

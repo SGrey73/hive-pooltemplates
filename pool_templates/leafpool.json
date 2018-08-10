@@ -1,0 +1,27 @@
+[
+    {
+        "coin": "ZP",
+        "servers": [
+            {            
+                "geo": "EU",
+                "urls": [
+                    "zp-eu.leafpool.com:8811"
+                ]
+            },
+			{            
+                "geo": "USA",
+                "urls": [
+                    "zp-us-east.leafpool.com:8811"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {
+				"fork": "zp",
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%",
+                "ccpass": "x"
+            }
+        }
+    }
+]

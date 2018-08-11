@@ -3,7 +3,7 @@
         "coin": "Multi-yescryptR16",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:6333"
                 ]
@@ -29,7 +29,7 @@
         "coin": "Multi-yescryptR16",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:6333"
                 ]
@@ -55,7 +55,7 @@
         "coin": "Multi-yescryptR16",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:6333"
                 ]
@@ -81,7 +81,7 @@
         "coin": "Multi-neoscrypt",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4233"
                 ]
@@ -107,7 +107,7 @@
         "coin": "Multi-neoscrypt",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4233"
                 ]
@@ -133,7 +133,7 @@
         "coin": "Multi-neoscrypt",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4233"
                 ]
@@ -159,7 +159,7 @@
         "coin": "Multi-lyra2z",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4553"
                 ]
@@ -185,7 +185,7 @@
         "coin": "Multi-lyra2z",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4553"
                 ]
@@ -211,7 +211,7 @@
         "coin": "Multi-lyra2z",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4553"
                 ]
@@ -237,7 +237,7 @@
         "coin": "Multi-x17",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:3737"
                 ]
@@ -263,7 +263,7 @@
         "coin": "Multi-x17",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:3737"
                 ]
@@ -289,7 +289,7 @@
         "coin": "Multi-x17",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:3737"
                 ]
@@ -315,7 +315,7 @@
         "coin": "Multi-x16r",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:3636"
                 ]
@@ -341,7 +341,7 @@
         "coin": "Multi-x16r",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:3636"
                 ]
@@ -367,7 +367,7 @@
         "coin": "Multi-x16r",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:3636"
                 ]
@@ -393,7 +393,7 @@
         "coin": "Multi-x16s",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:3663"
                 ]
@@ -419,7 +419,7 @@
         "coin": "Multi-x16s",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:3663"
                 ]
@@ -445,7 +445,7 @@
         "coin": "Multi-x16s",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:3663"
                 ]
@@ -471,7 +471,7 @@
         "coin": "Multi-lyra2v2",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4533"
                 ]
@@ -497,7 +497,7 @@
         "coin": "Multi-lyra2v2",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4533"
                 ]
@@ -523,7 +523,7 @@
         "coin": "Multi-lyra2v2",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4533"
                 ]
@@ -549,7 +549,7 @@
         "coin": "Multi-skein",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4933"
                 ]
@@ -575,7 +575,7 @@
         "coin": "Multi-skein",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4933"
                 ]
@@ -601,7 +601,7 @@
         "coin": "Multi-skein",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "blockmasters.co:4933"
                 ]

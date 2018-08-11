@@ -4,7 +4,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1112"
                 ]
             }
@@ -30,7 +30,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1120"
                 ]
             }
@@ -56,7 +56,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1125"
                 ]
             }
@@ -82,7 +82,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1130"
                 ]
             }
@@ -108,7 +108,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1303"
                 ]
             }
@@ -134,7 +134,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1305"
                 ]
             }
@@ -160,7 +160,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1735"
                 ]
             }
@@ -186,7 +186,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1738"
                 ]
             }
@@ -212,7 +212,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1745"
                 ]
             }
@@ -238,7 +238,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1719"
                 ]
             }
@@ -264,7 +264,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1730"
                 ]
             }
@@ -290,7 +290,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1706"
                 ]
             }
@@ -316,7 +316,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1712"
                 ]
             }
@@ -342,7 +342,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1723"
                 ]
             }
@@ -368,7 +368,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1728"
                 ]
             }
@@ -394,7 +394,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1733"
                 ]
             }
@@ -420,7 +420,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1734"
                 ]
             }
@@ -446,7 +446,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1739"
                 ]
             }
@@ -472,7 +472,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "eu1.arcpool.com:1740"
                 ]
             }

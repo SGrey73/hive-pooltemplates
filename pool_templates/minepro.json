@@ -101,7 +101,7 @@
                     "us.zenmine.pro:9999",
 					"us1.zenmine.pro:9999"
                 ]
-            },
+            }
         ],
         "miners": {
             "claymore": {
@@ -113,7 +113,7 @@
         "coin": "ZEC",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "zecmine.pro:9009"
                 ]

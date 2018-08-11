@@ -3,7 +3,7 @@
         "coin": "BTX",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "bitcorepool.cc:8001",
 					"bitcorepool.cc:1111"

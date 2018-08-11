@@ -3,7 +3,7 @@
         "coin": "Multi-lyra2v2",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "lyra2v2.mine.blazepool.com:4533"
                 ]
@@ -29,7 +29,7 @@
         "coin": "Multi-neoscrypt",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "neoscrypt.mine.blazepool.com:4233"
                 ]
@@ -55,7 +55,7 @@
         "coin": "Multi-x16r",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "x16r.mine.blazepool.com:3636"
                 ]
@@ -81,7 +81,7 @@
         "coin": "Multi-skein",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "skein.mine.blazepool.com:4933"
                 ]
@@ -107,7 +107,7 @@
         "coin": "Multi-hmq1725",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "hmq1725.mine.blazepool.com:3747"
                 ]
@@ -133,7 +133,7 @@
         "coin": "Multi-yescrypt",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "yescrypt.mine.blazepool.com:6233"
                 ]
@@ -159,7 +159,7 @@
         "coin": "Multi-lyra2z",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "lyra2z.mine.blazepool.com:4553"
                 ]
@@ -185,7 +185,7 @@
         "coin": "Multi-x17",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "x17.mine.blazepool.com:3737"
                 ]
@@ -211,7 +211,7 @@
         "coin": "Multi-x16s",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "x16s.mine.blazepool.com:3663"
                 ]
@@ -237,7 +237,7 @@
         "coin": "Multi-c11",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "c11.mine.blazepool.com:3573"
                 ]

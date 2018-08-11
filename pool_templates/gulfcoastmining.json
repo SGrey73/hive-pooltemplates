@@ -1,11 +1,11 @@
 [   
     {
-        "coin": "ANU",
+        "coin": "GBX",
         "servers": [
             {
                 "geo":  null,
                 "urls": [
-                    "stratum.gos.cx:1414"  
+                    "pool.gulfcoastmining.com:4221"  
                 ]
             }
         ],
@@ -13,25 +13,25 @@
             "ccminer": {     
                 "ccurl": "stratum+tcp://%URL%",
                 "ccuser": "%WAL%.%WORKER_NAME%",
-                "ccalgo": "c11",
-				"ccpass": "с=ANU"
+                "ccalgo": "neoscrypt",
+				"ccpass": "с=GBX"
             },
 			"sgminer-gm": {     
                 "url": "stratum+tcp://%URL%",
-				"algo": "c11",
-                "pass": "c=ANU", 
+				"algo": "neoscrypt",
+                "pass": "c=GBX", 
                 "template": "%WAL%.%WORKER_NAME%",
                 "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
         }
     },
     {
-        "coin": "ABS",
+        "coin": "TZC",
         "servers": [
             {
                 "geo":  null,
                 "urls": [
-                    "stratum.gos.cx:4502"  
+                    "pool.gulfcoastmining.com:4230"  
                 ]
             }
         ],
@@ -39,25 +39,51 @@
             "ccminer": {     
                 "ccurl": "stratum+tcp://%URL%",
                 "ccuser": "%WAL%.%WORKER_NAME%",
-                "ccalgo": "lyra2v2",
-				"ccpass": "с=ABS"
+                "ccalgo": "neoscrypt",
+				"ccpass": "с=TZC"
             },
 			"sgminer-gm": {     
                 "url": "stratum+tcp://%URL%",
-				"algo": "lyra2v2",
-                "pass": "c=ABS", 
+				"algo": "neoscrypt",
+                "pass": "c=TZC", 
                 "template": "%WAL%.%WORKER_NAME%",
                 "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
         }
     },
-	{
+    {
+        "coin": "ACM",
+        "servers": [
+            {
+                "geo":  null,
+                "urls": [
+                    "pool.gulfcoastmining.com:4556"  
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%.%WORKER_NAME%",
+                "ccalgo": "lyra2z",
+				"ccpass": "с=ACM"
+            },
+			"sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+				"algo": "lyra2z",
+                "pass": "c=ACM", 
+                "template": "%WAL%.%WORKER_NAME%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
         "coin": "ALPS",
         "servers": [
             {
                 "geo":  null,
                 "urls": [
-                    "stratum.gos.cx:4555"  
+                    "pool.gulfcoastmining.com:4555"  
                 ]
             }
         ],
@@ -78,12 +104,31 @@
         }
     },
 	{
+        "coin": "GRLC",
+        "servers": [
+            {
+                "geo":  null,
+                "urls": [
+                    "pool.gulfcoastmining.com:4443"  
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%.%WORKER_NAME%",
+                "ccalgo": "allium",
+				"ccpass": "с=GRLC"
+            }
+        }
+    },
+    {
         "coin": "GIN",
         "servers": [
             {
                 "geo":  null,
                 "urls": [
-                    "stratum.gos.cx:4545"  
+                    "pool.gulfcoastmining.com:4558"  
                 ]
             }
         ],
@@ -104,12 +149,12 @@
         }
     },
 	{
-        "coin": "MCT",
+        "coin": "GTM",
         "servers": [
             {
                 "geo":  null,
                 "urls": [
-                    "stratum.gos.cx:4556"  
+                    "pool.gulfcoastmining.com:4557"  
                 ]
             }
         ],
@@ -118,36 +163,62 @@
                 "ccurl": "stratum+tcp://%URL%",
                 "ccuser": "%WAL%.%WORKER_NAME%",
                 "ccalgo": "lyra2z",
-				"ccpass": "с=MCT"
+				"ccpass": "с=GTM"
             },
 			"sgminer-gm": {     
                 "url": "stratum+tcp://%URL%",
 				"algo": "lyra2z",
-                "pass": "c=MCT", 
+                "pass": "c=GTM", 
                 "template": "%WAL%.%WORKER_NAME%",
                 "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
         }
     },
 	{
-        "coin": "MANO",
+        "coin": "IFX",
         "servers": [
             {
                 "geo":  null,
                 "urls": [
-                    "stratum.gos.cx:4557"  
+                    "pool.gulfcoastmining.com:4554"  
                 ]
             }
         ],
         "miners": {
             "ccminer": {     
-                "ccurl": "stratum+tcp://%URL%.%WORKER_NAME%",
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%.%WORKER_NAME%",
+                "ccalgo": "lyra2z",
+				"ccpass": "с=IFX"
+            },
+			"sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+				"algo": "lyra2z",
+                "pass": "c=IFX", 
+                "template": "%WAL%.%WORKER_NAME%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+    {
+        "coin": "MANO",
+        "servers": [
+            {
+                "geo":  null,
+                "urls": [
+                    "pool.gulfcoastmining.com:4560"  
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
                 "ccuser": "%WAL%.%WORKER_NAME%",
                 "ccalgo": "lyra2z",
 				"ccpass": "с=MANO"
             },
 			"sgminer-gm": {     
-                "url": "stratum+tcp://%URL%.%WORKER_NAME%",
+                "url": "stratum+tcp://%URL%",
 				"algo": "lyra2z",
                 "pass": "c=MANO", 
                 "template": "%WAL%.%WORKER_NAME%",
@@ -156,149 +227,26 @@
         }
     },
 	{
-        "coin": "GLYNO",
+        "coin": "VTL",
         "servers": [
             {
                 "geo":  null,
                 "urls": [
-                    "stratum.gos.cx:4559"  
+                    "pool.gulfcoastmining.com:4559"  
                 ]
             }
         ],
         "miners": {
             "ccminer": {     
-                "ccurl": "stratum+tcp://%URL%",
+                "ccurl": "stratum+tcp://%URL%.%WORKER_NAME%",
                 "ccuser": "%WAL%.%WORKER_NAME%",
                 "ccalgo": "lyra2z",
-				"ccpass": "с=GLYNO"
+				"ccpass": "с=VTL"
             },
 			"sgminer-gm": {     
-                "url": "stratum+tcp://%URL%",
+                "url": "stratum+tcp://%URL%.%WORKER_NAME%",
 				"algo": "lyra2z",
-                "pass": "c=GLYNO", 
-                "template": "%WAL%.%WORKER_NAME%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
-            }
-        }
-    },
-	{
-        "coin": "MNOS",
-        "servers": [
-            {
-                "geo":  null,
-                "urls": [
-                    "stratum.gos.cx:4554"  
-                ]
-            }
-        ],
-        "miners": {
-            "ccminer": {     
-                "ccurl": "stratum+tcp://%URL%",
-                "ccuser": "%WAL%.%WORKER_NAME%",
-                "ccalgo": "lyra2z",
-				"ccpass": "с=MNOS"
-            },
-			"sgminer-gm": {     
-                "url": "stratum+tcp://%URL%",
-				"algo": "lyra2z",
-                "pass": "c=MNOS", 
-                "template": "%WAL%.%WORKER_NAME%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
-            }
-        }
-    },
-	{
-        "coin": "XZX",
-        "servers": [
-            {
-                "geo":  null,
-                "urls": [
-                    "stratum.gos.cx:4534"  
-                ]
-            }
-        ],
-        "miners": {
-            "ccminer": {     
-                "ccurl": "stratum+tcp://%URL%",
-                "ccuser": "%WAL%.%WORKER_NAME%",
-                "ccalgo": "neoscrypt",
-				"ccpass": "с=XZX"
-            },
-			"sgminer-gm": {     
-                "url": "stratum+tcp://%URL%",
-				"algo": "neoscrypt",
-                "pass": "c=XZX", 
-                "template": "%WAL%.%WORKER_NAME%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
-            }
-        }
-    },
-	{
-        "coin": "LUX",
-        "servers": [
-            {
-                "geo":  null,
-                "urls": [
-                    "stratum.gos.cx:8333"  
-                ]
-            }
-        ],
-        "miners": {
-            "ccminer": {     
-                "ccurl": "stratum+tcp://%URL%",
-                "ccuser": "%WAL%.%WORKER_NAME%",
-                "ccalgo": "phi2",
-				"ccpass": "с=LUX"
-            }
-        }
-    },
-	{
-        "coin": "PRIV",
-        "servers": [
-            {
-                "geo":  null,
-                "urls": [
-                    "stratum.gos.cx:3633"  
-                ]
-            }
-        ],
-        "miners": {
-            "ccminer": {     
-                "ccurl": "stratum+tcp://%URL%",
-                "ccuser": "%WAL%.%WORKER_NAME%",
-                "ccalgo": "x13",
-				"ccpass": "с=PRIV"
-            },
-			"sgminer-gm": {     
-                "url": "stratum+tcp://%URL%",
-				"algo": "x13",
-                "pass": "c=PRIV", 
-                "template": "%WAL%.%WORKER_NAME%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
-            }
-        }
-    },
-	{
-        "coin": "XMN",
-        "servers": [
-            {
-                "geo":  null,
-                "urls": [
-                    "stratum.gos.cx:3639"  
-                ]
-            }
-        ],
-        "miners": {
-            "ccminer": {     
-                "ccurl": "stratum+tcp://%URL%",
-                "ccuser": "%WAL%.%WORKER_NAME%",
-                "ccalgo": "x16r",
-				"ccpass": "с=XMN"
-            },
-			"sgminer-gm": {     
-                "url": "stratum+tcp://%URL%",
-				"algo": "x16r",
-                "pass": "c=XMN", 
+                "pass": "c=VTL", 
                 "template": "%WAL%.%WORKER_NAME%",
                 "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
@@ -310,7 +258,7 @@
             {
                 "geo":  null,
                 "urls": [
-                    "stratum.gos.cx:3638"  
+                    "pool.gulfcoastmining.com:3642"  
                 ]
             }
         ],
@@ -331,12 +279,12 @@
         }
     },
 	{
-        "coin": "ELP",
+        "coin": "RVN",
         "servers": [
             {
                 "geo":  null,
                 "urls": [
-                    "stratum.gos.cx:3737"  
+                    "pool.gulfcoastmining.com:3637"  
                 ]
             }
         ],
@@ -344,42 +292,273 @@
             "ccminer": {     
                 "ccurl": "stratum+tcp://%URL%",
                 "ccuser": "%WAL%.%WORKER_NAME%",
-                "ccalgo": "xevan",
-				"ccpass": "с=ELP"
+                "ccalgo": "x16r",
+				"ccpass": "с=RVN"
             },
 			"sgminer-gm": {     
                 "url": "stratum+tcp://%URL%",
-				"algo": "xevan",
-                "pass": "c=ELP", 
+				"algo": "x16r",
+                "pass": "c=RVN", 
+                "template": "%WAL%.%WORKER_NAME%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+	{
+        "coin": "MLM",
+        "servers": [
+            {
+                "geo":  null,
+                "urls": [
+                    "pool.gulfcoastmining.com:3737"  
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%.%WORKER_NAME%",
+                "ccalgo": "x17",
+				"ccpass": "с=MLM"
+            },
+			"sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+				"algo": "x17",
+                "pass": "c=MLM", 
+                "template": "%WAL%.%WORKER_NAME%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+	{
+        "coin": "ORE",
+        "servers": [
+            {
+                "geo":  null,
+                "urls": [
+                    "pool.gulfcoastmining.com:4531"  
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%.%WORKER_NAME%",
+                "ccalgo": "lyra2v2",
+				"ccpass": "с=ORE"
+            },
+			"sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+				"algo": "lyra2v2",
+                "pass": "c=ORE", 
+                "template": "%WAL%.%WORKER_NAME%",
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            }
+        }
+    },
+	{
+        "coin": "SAP",
+        "servers": [
+            {
+                "geo":  null,
+                "urls": [
+                    "pool.gulfcoastmining.com:4530"  
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%.%WORKER_NAME%",
+                "ccalgo": "lyra2v2",
+				"ccpass": "с=SAP"
+            },
+			"sgminer-gm": {     
+                "url": "stratum+tcp://%URL%",
+				"algo": "lyra2v2",
+                "pass": "c=SAP", 
                 "template": "%WAL%.%WORKER_NAME%",
                 "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
         }
     },
     {
-        "coin": "XDNA",
+        "coin": "BTC",
         "servers": [
             {
-                "geo": "Europe",
+                "geo": null,
                 "urls": [
-                    "stratum.gos.cx:5000"
+                    "pool.gulfcoastmining.com:3332"
                 ]
             }
         ],
         "miners": {
+            "ccminer": {
+                "ccurl": "stratum+tcp://%URL%",
+                "ccalgo": "sha256",
+                "ccpass": "с=BTC",
+                "ccuser": "%WAL%.%WORKER_NAME%"
+            },
             "sgminer-gm": {
                 "url": "stratum+tcp://%URL%",
-                "algo": "x16m",
-                "pass": "c=XDNA",
+                "algo": "sha256",
+                "pass": "с=BTC",
                 "template": "%WAL%.%WORKER_NAME%",
-                "user_config": "\"xintensity\" : \"256\""
-            },
+                "user_config": "-I 21 \n-w 64 \n-g 2"
+            }
+        }
+    },
+	{
+        "coin": "CHA",
+        "servers": [
+            {
+                "geo": null,
+                "urls": [
+                    "pool.gulfcoastmining.com:3440"
+                ]
+            }
+        ],
+        "miners": {
             "ccminer": {
-		"fork": "enemy",
                 "ccurl": "stratum+tcp://%URL%",
-                "ccalgo": "hex",
-                "ccpass": "c=XDNA",
+                "ccalgo": "scrypt",
+                "ccpass": "c=CHA",
                 "ccuser": "%WAL%.%WORKER_NAME%"
+            },
+            "sgminer-gm": {
+                "url": "stratum+tcp://%URL%",
+                "algo": "scrypt",
+                "fork": "gm",
+                "pass": "c=CHA",
+                "template": "%WAL%.%WORKER_NAME%",
+                "user_config": "-I 21 \n-w 64 \n-g 2"
+            }
+        }
+    },
+    {
+        "coin": "MFC",
+        "servers": [
+            {
+                "geo": null,
+                "urls": [
+                    "pool.gulfcoastmining.com:3439"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {
+                "ccurl": "stratum+tcp://%URL%",
+                "ccalgo": "scrypt",
+                "ccpass": "c=MFC",
+                "ccuser": "%WAL%.%WORKER_NAME%"
+            },
+            "sgminer-gm": {
+                "url": "stratum+tcp://%URL%",
+                "algo": "scrypt",
+                "fork": "gm",
+                "pass": "c=MFC",
+                "template": "%WAL%.%WORKER_NAME%",
+                "user_config": "-I 21 \n-w 64 \n-g 2"
+            }
+        }
+    },
+    {
+        "coin": "VLU",
+        "servers": [
+            {
+                "geo": null,
+                "urls": [
+                    "pool.gulfcoastmining.com:3443"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {
+                "ccurl": "stratum+tcp://%URL%",
+                "ccalgo": "scrypt",
+                "ccpass": "c=VLU",
+                "ccuser": "%WAL%.%WORKER_NAME%"
+            },
+            "sgminer-gm": {
+                "url": "stratum+tcp://%URL%",
+                "algo": "scrypt",
+                "fork": "gm",
+                "pass": "c=VLU",
+                "template": "%WAL%.%WORKER_NAME%",
+                "user_config": "-I 21 \n-w 64 \n-g 2"
+            }
+        }
+    },
+    {
+        "coin": "EXPO",
+        "servers": [
+            {
+                "geo": null,
+                "urls": [
+                    "pool.gulfcoastmining.com:3445"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {
+                "ccurl": "stratum+tcp://%URL%",
+                "ccalgo": "scrypt",
+                "ccpass": "c=EXPO",
+                "ccuser": "%WAL%.%WORKER_NAME%"
+            },
+            "sgminer-gm": {
+                "url": "stratum+tcp://%URL%",
+                "algo": "scrypt",
+                "fork": "gm",
+                "pass": "c=EXPO",
+                "template": "%WAL%.%WORKER_NAME%",
+                "user_config": "-I 21 \n-w 64 \n-g 2"
+            }
+        }
+    },
+    {
+        "coin": "QUAN",
+        "servers": [
+            {
+                "geo": null,
+                "urls": [
+                    "pool.gulfcoastmining.com:3438"
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {
+                "ccurl": "stratum+tcp://%URL%",
+                "ccalgo": "scrypt",
+                "ccpass": "c=QUAN",
+                "ccuser": "%WAL%.%WORKER_NAME%"
+            },
+            "sgminer-gm": {
+                "url": "stratum+tcp://%URL%",
+                "algo": "scrypt",
+                "fork": "gm",
+                "pass": "c=QUAN",
+                "template": "%WAL%.%WORKER_NAME%",
+                "user_config": "-I 21 \n-w 64 \n-g 2"
+            }
+        }
+    },
+    {
+        "coin": "SONO",
+        "servers": [
+            {
+                "geo":  null,
+                "urls": [
+                    "pool.gulfcoastmining.com:8439"  
+                ]
+            }
+        ],
+        "miners": {
+            "ccminer": {     
+                "ccurl": "stratum+tcp://%URL%",
+                "ccuser": "%WAL%.%WORKER_NAME%",
+                "ccalgo": "sonoa",
+				"ccpass": "с=SONO"
             }
         }
     }

@@ -29,26 +29,6 @@
 
 				]
 			}
-/*
-			{
-				"geo": "Low-End SSL",
-				"urls": [
-					"pool.xmr.fairhash.org:3333"
-				]
-			},		
-			{
-				"geo": "Mid range SSL",
-				"urls": [
-					"pool.xmr.fairhash.org:5556"
-				]
-			},
-			{
-				"geo": "High-End SSL",
-				"urls": [
-					"pool.xmr.fairhash.org:7778"
-				]
-			}
-*/
 		],
 		"miners":{
 			"xmrig": {

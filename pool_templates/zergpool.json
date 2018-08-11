@@ -26,7 +26,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash192",
+		"coin": "Zerg-equihash192",
 		"servers": [
 			{
 				"geo": null,
@@ -52,7 +52,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash192",
+		"coin": "Zerg-equihash192",
 		"servers": [
 			{
 				"geo": null,
@@ -104,7 +104,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash144",
+		"coin": "Zerg-equihash144",
 		"servers": [
 			{
 				"geo": null,
@@ -130,7 +130,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash144",
+		"coin": "Zerg-equihash144",
 		"servers": [
 			{
 				"geo": null,
@@ -182,7 +182,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash144",
+		"coin": "Zerg-equihash144",
 		"servers": [
 			{
 				"geo": null,
@@ -208,7 +208,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash144",
+		"coin": "Zerg-equihash144",
 		"servers": [
 			{
 				"geo": null,
@@ -260,7 +260,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash144",
+		"coin": "Zerg-equihash144",
 		"servers": [
 			{
 				"geo": null,
@@ -286,7 +286,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash144",
+		"coin": "Zerg-equihash144",
 		"servers": [
 			{
 				"geo": null,
@@ -338,7 +338,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash144",
+		"coin": "Zerg-equihash144",
 		"servers": [
 			{
 				"geo": null,
@@ -364,7 +364,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash144",
+		"coin": "Zerg-equihash144",
 		"servers": [
 			{
 				"geo": null,
@@ -416,7 +416,7 @@
         }
 	},
 	{
-		"coin": "Multi-keccakc",
+		"coin": "Zerg-keccakc",
 		"servers": [
 			{
 				"geo": null,
@@ -442,7 +442,7 @@
         }
 	},
 	{
-		"coin": "Multi-keccakc",
+		"coin": "Zerg-keccakc",
 		"servers": [
 			{
 				"geo": null,
@@ -494,7 +494,7 @@
         }
 	},
 	{
-		"coin": "Multi-aergo",
+		"coin": "Zerg-aergo",
 		"servers": [
 			{
 				"geo": null,
@@ -520,7 +520,7 @@
         }
 	},
 	{
-		"coin": "Multi-aergo",
+		"coin": "Zerg-aergo",
 		"servers": [
 			{
 				"geo": null,
@@ -572,7 +572,7 @@
         }
 	},
 	{
-		"coin": "Multi-allium",
+		"coin": "Zerg-allium",
 		"servers": [
 			{
 				"geo": null,
@@ -598,7 +598,7 @@
         }
 	},
 	{
-		"coin": "Multi-allium",
+		"coin": "Zerg-allium",
 		"servers": [
 			{
 				"geo": null,
@@ -650,7 +650,7 @@
         }
 	},
 	{
-		"coin": "Multi-balloon",
+		"coin": "Zerg-balloon",
 		"servers": [
 			{
 				"geo": null,
@@ -676,7 +676,7 @@
         }
 	},
 	{
-		"coin": "Multi-balloon",
+		"coin": "Zerg-balloon",
 		"servers": [
 			{
 				"geo": null,
@@ -728,7 +728,7 @@
         }
 	},
 	{
-		"coin": "Multi-bitcore",
+		"coin": "Zerg-bitcore",
 		"servers": [
 			{
 				"geo": null,
@@ -754,7 +754,7 @@
         }
 	},
 	{
-		"coin": "Multi-bitcore",
+		"coin": "Zerg-bitcore",
 		"servers": [
 			{
 				"geo": null,
@@ -858,7 +858,7 @@
         }
 	},
 	{
-		"coin": "Multi-blake2s",
+		"coin": "Zerg-blake2s",
 		"servers": [
 			{
 				"geo": null,
@@ -884,7 +884,7 @@
         }
 	},
 	{
-		"coin": "Multi-blake2s",
+		"coin": "Zerg-blake2s",
 		"servers": [
 			{
 				"geo": null,
@@ -936,7 +936,7 @@
         }
 	},
 	{
-		"coin": "Multi-c11",
+		"coin": "Zerg-c11",
 		"servers": [
 			{
 				"geo": null,
@@ -962,7 +962,7 @@
         }
 	},
 	{
-		"coin": "Multi-c11",
+		"coin": "Zerg-c11",
 		"servers": [
 			{
 				"geo": null,
@@ -1040,7 +1040,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash",
+		"coin": "Zerg-equihash",
 		"servers": [
 			{
 				"geo": null,
@@ -1066,7 +1066,7 @@
         }
 	},
 	{
-		"coin": "Multi-equihash",
+		"coin": "Zerg-equihash",
 		"servers": [
 			{
 				"geo": null,
@@ -1118,7 +1118,7 @@
         }
 	},
 	{
-		"coin": "Multi-hmq1725",
+		"coin": "Zerg-hmq1725",
 		"servers": [
 			{
 				"geo": null,
@@ -1144,7 +1144,7 @@
         }
 	},
 	{
-		"coin": "Multi-hmq1725",
+		"coin": "Zerg-hmq1725",
 		"servers": [
 			{
 				"geo": null,
@@ -1196,7 +1196,7 @@
         }
 	},
 	{
-		"coin": "Multi-hsr",
+		"coin": "Zerg-hsr",
 		"servers": [
 			{
 				"geo": null,
@@ -1222,7 +1222,7 @@
         }
 	},
 	{
-		"coin": "Multi-hsr",
+		"coin": "Zerg-hsr",
 		"servers": [
 			{
 				"geo": null,
@@ -1259,19 +1259,19 @@
 		],
 		"miners": {
 			"ccminer": {     
-                "ccurl": "stratum+tcp://%URL%",
-                "ccuser": "%WAL%",
-                "ccalgo": "keccak",
+                		"ccurl": "stratum+tcp://%URL%",
+                		"ccuser": "%WAL%",
+                		"ccalgo": "hex",
 				"ccpass": "c=XDNA,mc=XDNA-keccak"
-            },
+            		},
 			"sgminer-gm": {     
-                "url": "stratum+tcp://%URL%",
-				"algo": "keccak",
-                "pass": "c=XDNA,mc=XDNA-keccak", 
-                "template": "%WAL%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
-            }
-        }
+                		"url": "stratum+tcp://%URL%",
+				"algo": "x16m",
+                		"pass": "c=XDNA,mc=XDNA-keccak", 
+                		"template": "%WAL%",
+                		"user_config": "\"xintensity\" : \"256\""
+            		}
+        	}
 	},
 	{
 		"coin": "MAX",
@@ -1300,7 +1300,7 @@
         }
 	},
 	{
-		"coin": "Multi-keccak",
+		"coin": "Zerg-keccak",
 		"servers": [
 			{
 				"geo": null,
@@ -1326,7 +1326,7 @@
         }
 	},
 	{
-		"coin": "Multi-keccak",
+		"coin": "Zerg-keccak",
 		"servers": [
 			{
 				"geo": null,
@@ -1508,7 +1508,7 @@
         }
 	},
 	{
-		"coin": "Multi-lyra2v2",
+		"coin": "Zerg-lyra2v2",
 		"servers": [
 			{
 				"geo": null,
@@ -1534,7 +1534,7 @@
         }
 	},
 	{
-		"coin": "Multi-lyra2v2",
+		"coin": "Zerg-lyra2v2",
 		"servers": [
 			{
 				"geo": null,
@@ -1794,7 +1794,7 @@
         }
 	},
 	{
-		"coin": "Multi-lyra2z",
+		"coin": "Zerg-lyra2z",
 		"servers": [
 			{
 				"geo": null,
@@ -1820,7 +1820,7 @@
         }
 	},
 	{
-		"coin": "Multi-lyra2z",
+		"coin": "Zerg-lyra2z",
 		"servers": [
 			{
 				"geo": null,
@@ -1872,7 +1872,7 @@
         }
 	},
 	{
-		"coin": "Multi-m7m",
+		"coin": "Zerg-m7m",
 		"servers": [
 			{
 				"geo": null,
@@ -1886,9 +1886,9 @@
                 "ccurl": "stratum+tcp://%URL%",
                 "ccuser": "%WAL%",
                 "ccalgo": "m7m",
-				"ccpass": "c=BTC
+				"ccpass": "c=BTC"
             },
-			"sgminer-gm": {     
+			"sgminer-gm": {
                 "url": "stratum+tcp://%URL%",
 				"algo": "m7m",
                 "pass": "c=BTC", 
@@ -1898,7 +1898,7 @@
         }
 	},
 	{
-		"coin": "Multi-m7m",
+		"coin": "Zerg-m7m",
 		"servers": [
 			{
 				"geo": null,
@@ -1976,7 +1976,7 @@
         }
 	},
 	{
-		"coin": "Multi-myr-gr",
+		"coin": "Zerg-myr-gr",
 		"servers": [
 			{
 				"geo": null,
@@ -2002,7 +2002,7 @@
         }
 	},
 	{
-		"coin": "Multi-myr-gr",
+		"coin": "Zerg-myr-gr",
 		"servers": [
 			{
 				"geo": null,
@@ -2032,7 +2032,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2058,7 +2058,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2084,7 +2084,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2110,7 +2110,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2136,7 +2136,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2162,7 +2162,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2188,7 +2188,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2214,7 +2214,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2240,7 +2240,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2266,7 +2266,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2292,7 +2292,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2318,7 +2318,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2344,7 +2344,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2370,7 +2370,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2396,7 +2396,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2422,7 +2422,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2448,7 +2448,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2474,7 +2474,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2500,7 +2500,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2526,7 +2526,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2552,7 +2552,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2578,7 +2578,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2604,7 +2604,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2630,7 +2630,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2652,11 +2652,11 @@
         }
     },
     {
-        "coin": "Multi-neoscrypt",
+        "coin": "Zerg-neoscrypt",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2678,11 +2678,11 @@
         }
     },
     {
-        "coin": "Multi-neoscrypt",
+        "coin": "Zerg-neoscrypt",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.zergpool.com:4233"
                 ]
             }
@@ -2708,7 +2708,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "nist5.mine.zergpool.com:3833"
                 ]
             }
@@ -2730,11 +2730,11 @@
         }
     },
 	{
-        "coin": "Multi-nist5",
+        "coin": "Zerg-nist5",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "nist5.mine.zergpool.com:3833"
                 ]
             }
@@ -2756,11 +2756,11 @@
         }
     },
 	{
-        "coin": "Multi-nist5",
+        "coin": "Zerg-nist5",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "nist5.mine.zergpool.com:3833"
                 ]
             }
@@ -2786,7 +2786,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "phi.mine.zergpool.com:8333"
                 ]
             }
@@ -2812,7 +2812,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "phi.mine.zergpool.com:8333"
                 ]
             }
@@ -2834,11 +2834,11 @@
         }
     },
     {
-        "coin": "Multi-phi",
+        "coin": "Zerg-phi",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "phi.mine.zergpool.com:8333"
                 ]
             }
@@ -2860,11 +2860,11 @@
         }
     },
     {
-        "coin": "Multi-phi",
+        "coin": "Zerg-phi",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "phi.mine.zergpool.com:8333"
                 ]
             }
@@ -2890,7 +2890,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "phi2.mine.zergpool.com:8332"
                 ]
             }
@@ -2901,34 +2901,34 @@
                 "ccuser": "%WAL%",
                 "ccalgo": "phi2",
                 "ccpass": "c=LUX,mc=LUX-phi2"
-            },
+            }
         }
     },
     {
-        "coin": "Multi-phi2",
+        "coin": "Zerg-phi2",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "phi2.mine.zergpool.com:8332"
                 ]
             }
         ],
         "miners": {
-            "ccminer": {     
+            "ccminer": {
                 "ccurl": "stratum+tcp://%URL%",
                 "ccuser": "%WAL%",
                 "ccalgo": "phi2",
                 "ccpass": "c=BTC"
-            },
+            }
         }
     },
     {
-        "coin": "Multi-phi2",
+        "coin": "Zerg-phi2",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "phi2.mine.zergpool.com:8332"
                 ]
             }
@@ -2939,7 +2939,7 @@
                 "ccuser": "%WAL%",
                 "ccalgo": "phi2",
                 "ccpass": "c=LTC"
-            },
+            }
         }
     },
     {
@@ -2947,7 +2947,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skein.mine.zergpool.com:4933"
                 ]
             }
@@ -2973,7 +2973,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skein.mine.zergpool.com:4933"
                 ]
             }
@@ -2995,11 +2995,11 @@
         }
     },
     {
-        "coin": "Multi-skein",
+        "coin": "Zerg-skein",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skein.mine.zergpool.com:4933"
                 ]
             }
@@ -3021,11 +3021,11 @@
         }
     },
     {
-        "coin": "Multi-skein",
+        "coin": "Zerg-skein",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skein.mine.zergpool.com:4933"
                 ]
             }
@@ -3051,7 +3051,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skunk.mine.zergpool.com:8433"
                 ]
             }
@@ -3073,11 +3073,11 @@
         }
     },
     {
-        "coin": "Multi-skunk",
+        "coin": "Zerg-skunk",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skunk.mine.zergpool.com:8433"
                 ]
             }
@@ -3099,11 +3099,11 @@
         }
     },
     {
-        "coin": "Multi-skunk",
+        "coin": "Zerg-skunk",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skunk.mine.zergpool.com:8433"
                 ]
             }
@@ -3129,7 +3129,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "tribus.mine.zergpool.com:8533"
                 ]
             }
@@ -3151,11 +3151,11 @@
         }
     },
     {
-        "coin": "Multi-tribus",
+        "coin": "Zerg-tribus",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "tribus.mine.zergpool.com:8533"
                 ]
             }
@@ -3177,11 +3177,11 @@
         }
     },
     {
-        "coin": "Multi-tribus",
+        "coin": "Zerg-tribus",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "tribus.mine.zergpool.com:8533"
                 ]
             }
@@ -3207,7 +3207,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x13.mine.zergpool.com:3633"
                 ]
             }
@@ -3229,11 +3229,11 @@
         }
     },
     {
-        "coin": "Multi-x13",
+        "coin": "Zerg-x13",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x13.mine.zergpool.com:3633"
                 ]
             }
@@ -3255,11 +3255,11 @@
         }
     },
     {
-        "coin": "Multi-x13",
+        "coin": "Zerg-x13",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x13.mine.zergpool.com:3633"
                 ]
             }
@@ -3285,7 +3285,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x16r.mine.zergpool.com:3636"
                 ]
             }
@@ -3311,7 +3311,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x16r.mine.zergpool.com:3636"
                 ]
             }
@@ -3337,7 +3337,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x16r.mine.zergpool.com:3636"
                 ]
             }
@@ -3359,11 +3359,11 @@
         }
     },
     {
-        "coin": "Multi-x16r",
+        "coin": "Zerg-x16r",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x16r.mine.zergpool.com:3636"
                 ]
             }
@@ -3385,11 +3385,11 @@
         }
     },
     {
-        "coin": "Multi-x16r",
+        "coin": "Zerg-x16r",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x16r.mine.zergpool.com:3636"
                 ]
             }
@@ -3415,7 +3415,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescrypt.mine.zergpool.com:6233"
                 ]
             }
@@ -3441,7 +3441,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescrypt.mine.zergpool.com:6233"
                 ]
             }
@@ -3467,7 +3467,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescrypt.mine.zergpool.com:6233"
                 ]
             }
@@ -3493,7 +3493,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescrypt.mine.zergpool.com:6233"
                 ]
             }
@@ -3515,11 +3515,11 @@
         }
     },
     {
-        "coin": "Multi-yescrypt",
+        "coin": "Zerg-yescrypt",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescrypt.mine.zergpool.com:6233"
                 ]
             }
@@ -3541,11 +3541,11 @@
         }
     },
     {
-        "coin": "Multi-yescrypt",
+        "coin": "Zerg-yescrypt",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescrypt.mine.zergpool.com:6233"
                 ]
             }
@@ -3571,7 +3571,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescryptR16.mine.zergpool.com:6333"
                 ]
             }
@@ -3597,7 +3597,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescryptR16.mine.zergpool.com:6333"
                 ]
             }
@@ -3619,11 +3619,11 @@
         }
     },
     {
-        "coin": "Multi-yescryptR16",
+        "coin": "Zerg-yescryptR16",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescryptR16.mine.zergpool.com:6333"
                 ]
             }
@@ -3645,11 +3645,11 @@
         }
     },
     {
-        "coin": "Multi-yescryptR16",
+        "coin": "Zerg-yescryptR16",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescryptR16.mine.zergpool.com:6333"
                 ]
             }
@@ -3675,7 +3675,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x16s.mine.zergpool.com:3663"
                 ]
             }
@@ -3701,7 +3701,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x16s.mine.zergpool.com:3663"
                 ]
             }
@@ -3727,7 +3727,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x16s.mine.zergpool.com:3663"
                 ]
             }
@@ -3749,11 +3749,11 @@
         }
     },
     {
-        "coin": "Multi-x16s",
+        "coin": "Zerg-x16s",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x16s.mine.zergpool.com:3663"
                 ]
             }
@@ -3775,11 +3775,11 @@
         }
     },
     {
-        "coin": "Multi-x16s",
+        "coin": "Zerg-x16s",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x16s.mine.zergpool.com:3663"
                 ]
             }
@@ -3805,7 +3805,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "xevan.mine.zergpool.com:3739"
                 ]
             }
@@ -3831,7 +3831,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "xevan.mine.zergpool.com:3739"
                 ]
             }
@@ -3857,7 +3857,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "xevan.mine.zergpool.com:3739"
                 ]
             }
@@ -3883,7 +3883,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "xevan.mine.zergpool.com:3739"
                 ]
             }
@@ -3905,11 +3905,11 @@
         }
     },
     {
-        "coin": "Multi-xevan",
+        "coin": "Zerg-xevan",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "xevan.mine.zergpool.com:3739"
                 ]
             }
@@ -3931,11 +3931,11 @@
         }
     },
     {
-        "coin": "Multi-xevan",
+        "coin": "Zerg-xevan",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "xevan.mine.zergpool.com:3739"
                 ]
             }
@@ -3961,7 +3961,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x17.mine.zergpool.com:3737"
                 ]
             }
@@ -3987,7 +3987,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x17.mine.zergpool.com:3737"
                 ]
             }
@@ -4009,11 +4009,11 @@
         }
     },
     {
-        "coin": "Multi-x17",
+        "coin": "Zerg-x17",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x17.mine.zergpool.com:3737"
                 ]
             }
@@ -4035,11 +4035,11 @@
         }
     },
     {
-        "coin": "Multi-x17",
+        "coin": "Zerg-x17",
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x17.mine.zergpool.com:3737"
                 ]
             }

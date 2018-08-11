@@ -78,7 +78,7 @@
         ],
         "miners": {
             "claymore": {
-                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x",
+                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, EWORKER: %WORKER_NAME%, PSW: x"
         },
             "ethminer": {
                 "cuda": 1,

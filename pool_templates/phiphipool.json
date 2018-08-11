@@ -3,7 +3,7 @@
         "coin": "Multi-yescrypt",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "pool1.phi-phi-pool.com:6233"
                 ]
@@ -21,7 +21,7 @@
                 "algo": "yescrypt",
                 "pass": "c=BTC", 
                 "template": "%WAL%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\"
+                "user_config": "\"rawintensity\": \"5120\"\n\"worksize\": \"256\"\n\"lookup-gap\": \"2\"\n\"thread-concurrency\": \"8192\"\n\"shaders\": \"0\"\n\"gpu-threads\": \"2\""
             }
         }
     },
@@ -29,7 +29,7 @@
         "coin": "Multi-neoscrypt",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "pool1.phi-phi-pool.com:4233"
                 ]
@@ -47,7 +47,7 @@
                 "algo": "neoscrypt",
                 "pass": "c=BTC", 
                 "template": "%WAL%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\"
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
         }
     },
@@ -55,7 +55,7 @@
         "coin": "Multi-lyra2z",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "pool1.phi-phi-pool.com:4553"
                 ]
@@ -73,7 +73,7 @@
                 "algo": "lyra2z",
                 "pass": "c=BTC", 
                 "template": "%WAL%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\"
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
         }
     },
@@ -81,7 +81,7 @@
         "coin": "Multi-xevan",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "pool1.phi-phi-pool.com:3739"
                 ]
@@ -99,7 +99,7 @@
                 "algo": "xevan",
                 "pass": "c=BTC", 
                 "template": "%WAL%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\"
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
         }
     },
@@ -107,7 +107,7 @@
         "coin": "Multi-x17",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "pool1.phi-phi-pool.com:3737"
                 ]
@@ -125,7 +125,7 @@
                 "algo": "x17",
                 "pass": "c=BTC", 
                 "template": "%WAL%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\"
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
         }
     },
@@ -133,7 +133,7 @@
         "coin": "Multi-x16r",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "pool1.phi-phi-pool.com:3636"
                 ]
@@ -151,7 +151,7 @@
                 "algo": "x16r",
                 "pass": "c=BTC", 
                 "template": "%WAL%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\"
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
         }
     },
@@ -159,7 +159,7 @@
         "coin": "Multi-lyra2v2",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "pool1.phi-phi-pool.com:4533"
                 ]
@@ -177,7 +177,7 @@
                 "algo": "lyra2v2",
                 "pass": "c=BTC", 
                 "template": "%WAL%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\"
+                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
         }
     }

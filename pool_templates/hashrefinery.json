@@ -316,7 +316,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescrypt.us.hashrefinery.com:6233"
                 ]
             }
@@ -342,7 +342,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescrypt.us.hashrefinery.com:6233"
                 ]
             }
@@ -368,7 +368,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescrypt.us.hashrefinery.com:6233"
                 ]
             }
@@ -394,7 +394,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescrypt.us.hashrefinery.com:6233"
                 ]
             }
@@ -420,7 +420,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.us.hashrefinery.com:4233"
                 ]
             }
@@ -446,7 +446,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.us.hashrefinery.com:4233"
                 ]
             }
@@ -472,7 +472,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.us.hashrefinery.com:4233"
                 ]
             }
@@ -498,7 +498,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.us.hashrefinery.com:4233"
                 ]
             }
@@ -524,7 +524,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.us.hashrefinery.com:4233"
                 ]
             }
@@ -550,7 +550,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.us.hashrefinery.com:4233"
                 ]
             }
@@ -576,7 +576,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "m7m.us.hashrefinery.com:6033"
                 ]
             }
@@ -602,7 +602,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "lyra2z.us.hashrefinery.com:4553"
                 ]
             }
@@ -628,7 +628,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "phi2.us.hashrefinery.com:8332"
                 ]
             }
@@ -654,7 +654,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "xevan.us.hashrefinery.com:3739"
                 ]
             }
@@ -680,7 +680,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x17.us.hashrefinery.com:3737"
                 ]
             }
@@ -706,7 +706,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "blake2s.us.hashrefinery.com:5766"
                 ]
             }
@@ -732,7 +732,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "bitcore.us.hashrefinery.com:3556"
                 ]
             }
@@ -758,7 +758,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "lyra2v2.us.hashrefinery.com:4533"
                 ]
             }
@@ -784,7 +784,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "lyra2v2.us.hashrefinery.com:4533"
                 ]
             }
@@ -810,7 +810,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "lyra2v2.us.hashrefinery.com:4533"
                 ]
             }
@@ -836,7 +836,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "lyra2v2.us.hashrefinery.com:4533"
                 ]
             }
@@ -862,7 +862,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "lyra2v2.us.hashrefinery.com:4533"
                 ]
             }
@@ -888,7 +888,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "tribus.us.hashrefinery.com:8533"
                 ]
             }
@@ -914,7 +914,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skein.us.hashrefinery.com:4933"
                 ]
             }
@@ -940,7 +940,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skein.us.hashrefinery.com:4933"
                 ]
             }
@@ -966,7 +966,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skein.us.hashrefinery.com:4933"
                 ]
             }
@@ -992,7 +992,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skein.us.hashrefinery.com:4933"
                 ]
             }

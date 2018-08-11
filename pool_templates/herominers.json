@@ -23,7 +23,7 @@
 			{
 				"geo": "SSL",
 				"urls": [
-					"tube.herominers.com:10285",
+					"tube.herominers.com:10285"
 				]
 			}
 		],
@@ -69,7 +69,7 @@
 			{
 				"geo": "SSL",
 				"urls": [
-					"monero.herominers.com:10195",
+					"monero.herominers.com:10195"
 				]
 			}
 		],
@@ -119,7 +119,7 @@
 			{
 				"geo": "SSL",
 				"urls": [
-					"monerov.herominers.com:10205",
+					"monerov.herominers.com:10205"
 				]
 			}
 		],
@@ -169,7 +169,7 @@
 			{
 				"geo": "SSL",
 				"urls": [
-					"qrl.herominers.com:10375",
+					"qrl.herominers.com:10375"
 				]
 			}
 		],
@@ -195,10 +195,6 @@
 			}
 		}
 	},
-	/*
-	 Custom Pool Donation Level
-	 https://stellite.herominers.com/#getting_started
-	*/
 	{
 		"coin": "XTL",
 		"servers": [
@@ -223,7 +219,7 @@
 			{
 				"geo": "SSL",
 				"urls": [
-					"stellite.herominers.com:10134",
+					"stellite.herominers.com:10134"
 				]
 			}
 		],
@@ -244,5 +240,5 @@
 				"user_config": "\"currency\": \"stellite\""
 			}
 		}
-	},
+	}
 ]

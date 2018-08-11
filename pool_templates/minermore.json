@@ -3,7 +3,7 @@
         "coin": "RVN",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "pool.minermore.com:3636"
                 ]
@@ -29,7 +29,7 @@
 		"coin": "XSG",
 		"servers": [
 			{
-				"geo": "null",
+				"geo": null,
 				"urls": [
 					"pool.minermore.com:4606"
 				]
@@ -51,7 +51,7 @@
 		"coin": "ZEL",
 		"servers": [
 			{
-				"geo": "null",
+				"geo": null,
 				"urls": [
 					"pool.minermore.com:4605"
 				]
@@ -73,7 +73,7 @@
 		"coin": "SAFE",
 		"servers": [
 			{
-				"geo": "null",
+				"geo": null,
 				"urls": [
 					"pool.minermore.com:4603"
 				]

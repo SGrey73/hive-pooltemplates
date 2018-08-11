@@ -3,7 +3,7 @@
         "coin": "XVG",
         "servers": [
             {            
-                "geo": "null",
+                "geo": null,
                 "urls": [
                     "xvg.blake2s.com:8888"
                 ]
@@ -22,6 +22,11 @@
                 "pass": "c=XVG", 
                 "template": "%WAL%",
                 "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
+            },
+            "claymore": {
+                "dcri": "40",
+                "dcoin": "sia",
+                "dpools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x"
             }
         }
     }

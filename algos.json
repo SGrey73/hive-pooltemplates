@@ -35,7 +35,8 @@
             "YOC",
             "Nicehash-Ethash",
             "Walesburg-Ethash",
-            "MPH-Ethash"
+            "MPH-Ethash",
+            "Comining-Ethash"
         ]
     },
     {
@@ -63,8 +64,7 @@
 			"SUMO",
 			"XMC",
 			"XMO",
-            "Nicehash-CryptoNight",
-            "MPH-CryptoNight"
+            "Nicehash-Cryptonight"
         ]
     },
 	{
@@ -303,7 +303,7 @@
             "VIVO",
             "ZCR",
             "Nicehash-Neoscrypt",
-			"Multi-Neoscrypt"
+			"MPH-Neoscrypt"
         ]
     },
     {
@@ -372,7 +372,8 @@
     {
         "name": "skein",
         "coins": [
-            "DGB"
+            "DGB",
+			"MPH-Skein"
         ]
     },
     {
@@ -856,7 +857,7 @@
         ]
     },
         {
-        "name": "zen protocol",
+        "name": "sha-3",
         "coins": [
             "ZP"
         ]
@@ -865,6 +866,12 @@
         "name": "hex",
         "coins": [
             "XDNA"
+        ]
+    },
+    {
+        "name": "renesis",
+        "coins": [
+            "REES"
         ]
     }
 ]

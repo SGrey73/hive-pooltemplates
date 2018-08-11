@@ -1,6 +1,6 @@
 [
     {
-        "coin": "Multi-equihash",
+        "coin": "Zpool-equihash",
         "servers": [
             {            
                 "geo": "Europe",
@@ -32,7 +32,7 @@
         }
     },
     {
-        "coin": "Multi-x13",
+        "coin": "Zpool-x13",
         "servers": [
             {            
                 "geo": "Europe",
@@ -64,7 +64,7 @@
         }
     },
     {
-        "coin": "Multi-skein",
+        "coin": "Zpool-skein",
         "servers": [
             {            
                 "geo": "Europe",
@@ -96,7 +96,7 @@
         }
     },
     {
-        "coin": "Multi-neoscrypt",
+        "coin": "Zpool-neoscrypt",
         "servers": [
             {            
                 "geo": "Europe",
@@ -128,7 +128,7 @@
         }
     },
     {
-        "coin": "Multi-m7m",
+        "coin": "Zpool-m7m",
         "servers": [
             {            
                 "geo": "Europe",
@@ -160,7 +160,7 @@
         }
     },
     {
-        "coin": "Multi-sha256t",
+        "coin": "Zpool-sha256t",
         "servers": [
             {            
                 "geo": "Europe",
@@ -192,7 +192,7 @@
         }
     },
     {
-        "coin": "Multi-keccak",
+        "coin": "Zpool-keccak",
         "servers": [
             {            
                 "geo": "Europe",
@@ -224,7 +224,7 @@
         }
     },
     {
-        "coin": "Multi-keccakc",
+        "coin": "Zpool-keccakc",
         "servers": [
             {            
                 "geo": "Europe",
@@ -256,7 +256,7 @@
         }
     },
     {
-        "coin": "Multi-myr-gr",
+        "coin": "Zpool-myr-gr",
         "servers": [
             {            
                 "geo": "Europe",
@@ -288,7 +288,7 @@
         }
     },
     {
-        "coin": "Multi-lyra2z",
+        "coin": "Zpool-lyra2z",
         "servers": [
             {            
                 "geo": "Europe",
@@ -320,7 +320,7 @@
         }
     },
     {
-        "coin": "Multi-phi2",
+        "coin": "Zpool-phi2",
         "servers": [
             {            
                 "geo": "Europe",
@@ -341,11 +341,11 @@
                 "ccuser": "%WAL%",
                 "ccalgo": "phi2",
                 "ccpass": "c=BTC"
-            },
+            }
         }
     },
     {
-        "coin": "Multi-xevan",
+        "coin": "Zpool-xevan",
         "servers": [
             {            
                 "geo": "Europe",
@@ -370,14 +370,14 @@
             "sgminer-gm": {     
                 "url": "stratum+tcp://%URL%",
                 "algo": "xevan",
-                "pass": "c=BTC", 
+                "pass": "c=BTC",
                 "template": "%WAL%",
                 "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
             }
         }
     },
     {
-        "coin": "Multi-lbry",
+        "coin": "Zpool-lbry",
         "servers": [
             {            
                 "geo": "Europe",
@@ -409,7 +409,7 @@
         }
     },
     {
-        "coin": "Multi-yescryptR16",
+        "coin": "Zpool-yescryptR16",
         "servers": [
             {            
                 "geo": "Europe",
@@ -441,7 +441,7 @@
         }
     },
     {
-        "coin": "Multi-hmq1725",
+        "coin": "Zpool-hmq1725",
         "servers": [
             {            
                 "geo": "Europe",
@@ -473,7 +473,7 @@
         }
     },
     {
-        "coin": "Multi-allium",
+        "coin": "Zpool-allium",
         "servers": [
             {            
                 "geo": "Europe",
@@ -505,7 +505,7 @@
         }
     },
     {
-        "coin": "Multi-aergo",
+        "coin": "Zpool-aergo",
         "servers": [
             {            
                 "geo": "Europe",
@@ -537,7 +537,7 @@
         }
     },
     {
-        "coin": "Multi-x17",
+        "coin": "Zpool-x17",
         "servers": [
             {            
                 "geo": "Europe",
@@ -569,7 +569,7 @@
         }
     },
     {
-        "coin": "Multi-x16s",
+        "coin": "Zpool-x16s",
         "servers": [
             {            
                 "geo": "Europe",
@@ -601,7 +601,7 @@
         }
     },
     {
-        "coin": "Multi-nist5",
+        "coin": "Zpool-nist5",
         "servers": [
             {            
                 "geo": "Europe",
@@ -633,7 +633,7 @@
         }
     },
     {
-        "coin": "Multi-hsr",
+        "coin": "Zpool-hsr",
         "servers": [
             {            
                 "geo": "Europe",
@@ -665,7 +665,7 @@
         }
     },
     {
-        "coin": "Multi-x16r",
+        "coin": "Zpool-x16r",
         "servers": [
             {            
                 "geo": "Europe",
@@ -697,7 +697,7 @@
         }
     },
     {
-        "coin": "Multi-yescrypt",
+        "coin": "Zpool-yescrypt",
         "servers": [
             {            
                 "geo": "Europe",
@@ -729,7 +729,7 @@
         }
     },
     {
-        "coin": "Multi-timetravel",
+        "coin": "Zpool-timetravel",
         "servers": [
             {            
                 "geo": "Europe",
@@ -761,7 +761,7 @@
         }
     },
     {
-        "coin": "Multi-blake2s",
+        "coin": "Zpool-blake2s",
         "servers": [
             {            
                 "geo": "Europe",
@@ -793,7 +793,7 @@
         }
     },
     {
-        "coin": "Multi-x11evo",
+        "coin": "Zpool-x11evo",
         "servers": [
             {            
                 "geo": "Europe",
@@ -825,7 +825,7 @@
         }
     },
     {
-        "coin": "Multi-c11",
+        "coin": "Zpool-c11",
         "servers": [
             {            
                 "geo": "Europe",
@@ -857,7 +857,7 @@
         }
     },
     {
-        "coin": "Multi-phi",
+        "coin": "Zpool-phi",
         "servers": [
             {            
                 "geo": "Europe",
@@ -889,7 +889,7 @@
         }
     },
     {
-        "coin": "Multi-bitcore",
+        "coin": "Zpool-bitcore",
         "servers": [
             {            
                 "geo": "Europe",
@@ -921,7 +921,7 @@
         }
     },
     {
-        "coin": "Multi-lyra2v2",
+        "coin": "Zpool-lyra2v2",
         "servers": [
             {            
                 "geo": "Europe",
@@ -953,7 +953,7 @@
         }
     },
     {
-        "coin": "Multi-skunk",
+        "coin": "Zpool-skunk",
         "servers": [
             {            
                 "geo": "Europe",
@@ -985,7 +985,7 @@
         }
     },
     {
-        "coin": "Multi-blakecoin",
+        "coin": "Zpool-blakecoin",
         "servers": [
             {            
                 "geo": "Europe",
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "coin": "Multi-sib",
+        "coin": "Zpool-sib",
         "servers": [
             {            
                 "geo": "Europe",
@@ -1049,7 +1049,7 @@
         }
     },
     {
-        "coin": "Multi-tribus",
+        "coin": "Zpool-tribus",
         "servers": [
             {            
                 "geo": "Europe",
@@ -1081,7 +1081,7 @@
         }
     },
     {
-        "coin": "Multi-decred",
+        "coin": "Zpool-decred",
         "servers": [
             {            
                 "geo": "Europe",

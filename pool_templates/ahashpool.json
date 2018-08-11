@@ -4,7 +4,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "blake2s.mine.ahashpool.com:5766"
                 ]
             }
@@ -30,7 +30,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "bitcore.mine.ahashpool.com:3556"
                 ]
             }
@@ -56,7 +56,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "c11.mine.ahashpool.com:3573"
                 ]
             }
@@ -82,7 +82,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "groestl.mine.ahashpool.com:5333"
                 ]
             }
@@ -108,7 +108,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "hmq1725.mine.ahashpool.com:3747"
                 ]
             }
@@ -134,7 +134,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "hsr.mine.ahashpool.com:7433"
                 ]
             }
@@ -160,7 +160,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "keccak.mine.ahashpool.com:5133"
                 ]
             }
@@ -186,7 +186,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "lbry.mine.ahashpool.com:3334"
                 ]
             }
@@ -212,7 +212,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "lyra2v2.mine.ahashpool.com:4533"
                 ]
             }
@@ -238,7 +238,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "lyra2z.mine.ahashpool.com:4553"
                 ]
             }
@@ -264,7 +264,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "m7m.mine.ahashpool.com:6033"
                 ]
             }
@@ -290,7 +290,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "myr-gr.mine.ahashpool.com:5433"
                 ]
             }
@@ -316,7 +316,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "neoscrypt.mine.ahashpool.com:4233"
                 ]
             }
@@ -342,7 +342,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "phi.mine.ahashpool.com:8333"
                 ]
             }
@@ -368,7 +368,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "phi2.mine.ahashpool.com:8332"
                 ]
             }
@@ -394,7 +394,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "sib.mine.ahashpool.com:5033"
                 ]
             }
@@ -420,7 +420,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skein.mine.ahashpool.com:4933"
                 ]
             }
@@ -446,7 +446,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "skunk.mine.ahashpool.com:8433"
                 ]
             }
@@ -472,7 +472,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "tribus.mine.ahashpool.com:8533"
                 ]
             }
@@ -498,7 +498,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x17.mine.ahashpool.com:3737"
                 ]
             }
@@ -524,7 +524,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "xevan.mine.ahashpool.com:3739"
                 ]
             }
@@ -550,7 +550,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "yescrypt.mine.ahashpool.com:6333"
                 ]
             }
@@ -576,7 +576,7 @@
         "servers": [
             {
                 "geo": null,
-                "urls"[
+                "urls": [
                     "x16r.mine.ahashpool.com:3636"
                 ]
             }

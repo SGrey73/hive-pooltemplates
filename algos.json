@@ -302,8 +302,7 @@
             "TZC",
             "VIVO",
             "ZCR",
-            "Nicehash-Neoscrypt",
-			"MPH-Neoscrypt"
+            "Nicehash-Neoscrypt"
         ]
     },
     {
@@ -373,7 +372,7 @@
         "name": "skein",
         "coins": [
             "DGB",
-			"MPH-Skein"
+            "MPH-Skein"
         ]
     },
     {

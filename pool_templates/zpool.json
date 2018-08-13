@@ -144,19 +144,12 @@
             }
         ],
         "miners": {
-            "ccminer": {     
-                "ccurl": "stratum+tcp://%URL%",
-                "ccuser": "%WAL%",
-                "ccalgo": "m7m",
-                "ccpass": "c=BTC"
-            },
-            "sgminer-gm": {     
-                "url": "stratum+tcp://%URL%",
-                "algo": "m7m",
-                "pass": "c=BTC", 
-                "template": "%WAL%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
-            }
+            "cpuminer-opt": {
+				"url": " stratum+tcp://%URL%",
+				"algo": "m7m",
+				"pass": "c=BTC,%WORKER_NAME%",
+				"template": "%WAL%"
+			}
         }
     },
     {
@@ -409,7 +402,7 @@
         }
     },
     {
-        "coin": "Zpool-yescryptR16",
+        "coin": "Zpool-yescryptr16",
         "servers": [
             {            
                 "geo": "Europe",
@@ -425,19 +418,12 @@
             }
         ],
         "miners": {
-            "ccminer": {     
-                "ccurl": "stratum+tcp://%URL%",
-                "ccuser": "%WAL%",
-                "ccalgo": "yescryptR16",
-                "ccpass": "c=BTC"
-            },
-            "sgminer-gm": {     
-                "url": "stratum+tcp://%URL%",
-                "algo": "yescryptR16",
-                "pass": "c=BTC", 
-                "template": "%WAL%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
-            }
+			"cpuminer-opt": {
+				"url": " stratum+tcp://%URL%",
+				"algo": "yescryptR16",
+				"pass": "c=BTC,%WORKER_NAME%",
+				"template": "%WAL%"
+			}
         }
     },
     {
@@ -725,7 +711,13 @@
                 "pass": "c=BTC", 
                 "template": "%WAL%",
                 "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
-            }
+            },
+			"cpuminer-opt": {
+				"url": " stratum+tcp://%URL%",
+				"algo": "yescrypt",
+				"pass": "c=BTC,%WORKER_NAME%",
+				"template": "%WAL%"
+			}
         }
     },
     {

@@ -34,7 +34,7 @@
             "WHL",
             "YOC",
             "Nicehash-Ethash",
-            "Walesburg-Ethash",
+            "Whalesburg-Ethash",
             "MPH-Ethash",
             "Comining-Ethash"
         ]
@@ -50,7 +50,8 @@
             "ZEC",
             "ZEN",
             "Nicehash-Equihash",
-            "MPH-Equihash"
+            "MPH-Equihash",
+			"Zpool-Equihash"
         ]
     },
     {
@@ -134,7 +135,8 @@
             "XSH",
             "XVG",
             "Nicehash-Lyra2REv2",
-            "MPH-Lyra2REv2"
+            "MPH-Lyra2REv2",
+			"Zpool-lyra2v2"
         ]
     },
     {
@@ -162,7 +164,8 @@
         "name": "lbry",
         "coins": [
             "LBC",
-            "Nicehash-Lbry"
+            "Nicehash-Lbry",
+			"Zpool-lbry"
         ]
     },
     {
@@ -171,7 +174,8 @@
     {
         "name": "bitcore",
         "coins": [
-            "BTX"
+            "BTX",
+			"Zpool-timetravel"
         ]
     },
     {
@@ -182,13 +186,15 @@
         "coins": [
             "XVG",
             "XSH",
-            "Nicehash-Blake2s"
+            "Nicehash-Blake2s",
+			"Zpool-blake2s"
         ]
     },
     {
         "name": "blakecoin",
         "coins": [
-            "BLC"
+            "BLC",
+			"Zpool-blakecoin"
         ]
     },
     {
@@ -204,7 +210,8 @@
         "name": "decred",
         "coins": [
             "DCR",
-            "Nicehash-Decred"
+            "Nicehash-Decred",
+			"Zpool-decred"
         ]
     },
     {
@@ -233,7 +240,8 @@
         "coins": [
             "ERA",
             "ESP",
-            "NMD"
+            "NMD",
+			"Zpool-hmq1725"
         ]
     },
     {
@@ -244,7 +252,8 @@
         "coins": [
             "MAX",
             "NXS",
-            "Nicehash-Keccak"
+            "Nicehash-Keccak",
+			"Zpool-keccak"
         ]
     },
     {
@@ -269,7 +278,8 @@
             "TLR",
             "VTL",
             "XZC",
-            "Nicehash-Lyra2Z"
+            "Nicehash-Lyra2Z",
+			"Zpool-lyra2z"
         ]
     },
     {
@@ -283,7 +293,8 @@
             "DGB",
             "XMY",
             "XSH",
-            "XVG"
+            "XVG",
+			"Zpool-myr-gr"
         ]
     },
     {
@@ -302,13 +313,16 @@
             "TZC",
             "VIVO",
             "ZCR",
-            "Nicehash-Neoscrypt"
+            "Nicehash-Neoscrypt",
+			"MPH-Neoscrypt",
+			"Zpool-neoscrypt"
         ]
     },
     {
         "name": "nist5",
         "coins": [
-            "Nicehash-Nist5"
+            "Nicehash-Nist5",
+			"Zpool-nist5"
         ]
     },
     {
@@ -333,7 +347,8 @@
     {
         "name": "sha256t",
         "coins": [
-            "NMC"
+            "NMC",
+			"Zpool-sha256t"
         ]
     },
     {
@@ -372,7 +387,8 @@
         "name": "skein",
         "coins": [
             "DGB",
-            "MPH-Skein"
+			"MPH-Skein",
+			"Zpool-skein"
         ]
     },
     {
@@ -381,7 +397,8 @@
     {
         "name": "skunk",
         "coins": [
-            "Nicehash-Skunk"
+            "Nicehash-Skunk",
+			"Zpool-skunk"
         ]
     },
     {
@@ -393,7 +410,8 @@
     {
         "name": "tribus",
         "coins": [
-            "DNR"
+            "DNR",
+			"Zpool-timetravel"
         ]
     },
     {
@@ -409,7 +427,10 @@
         "name": "whirlpool"
     },
     {
-        "name": "x11evo"
+        "name": "x11evo",
+		"coins": [
+            "Zpool-x11evo"
+		]
     },
     {
         "name": "x11",
@@ -428,7 +449,8 @@
         "coins": [
             "BCD",
             "PRIV",
-            "Nicehash-X13"
+            "Nicehash-X13",
+			"Zpool-x13"
         ]
     },
     {
@@ -445,7 +467,8 @@
         "coins": [
             "MLM",
             "XSH",
-            "XVG"
+            "XVG",
+			"Zpool-x17"
         ]
     },
     {
@@ -629,7 +652,7 @@
         "coins": [
             "ARG",
             "XMY",
-			"Multi-Yescrypt"
+			"Zpool-yescrypt"
         ]
     },
     {
@@ -644,21 +667,24 @@
     {
         "name": "phi",
         "coins": [
-            "FLM"
+            "FLM",
+			"Zpool-phi"
         ]
     },
     {
         "name": "keccakc",
         "coins": [
             "CREA",
-            "SMART"
+            "SMART",
+			"Zpool-keccakc"
         ]
     },
     {
         "name": "c11",
         "coins": [
             "CHC",
-            "SPD"
+            "SPD",
+			"Zpool-c11"
         ]
     },
     {
@@ -669,7 +695,8 @@
         "coins": [
             "BSD",
             "ELLI",
-            "HASH"
+            "HASH",
+			"Zpool-xevan"
         ]
     },
     {
@@ -687,13 +714,15 @@
             "GRV",
             "RVN",
             "XMN",
-            "Nicehash-X16R"
+            "Nicehash-X16R",
+			"Zpool-x16r"
         ]
     },
     {
         "name": "allium",
         "coins": [
-            "GRLC"
+            "GRLC",
+			"Zpool-allium"
         ]
     },
     {
@@ -759,7 +788,8 @@
     {
         "name": "aergo",
         "coins": [
-            "AEX"
+            "AEX",
+			"Zpool-aergo"
         ]
     },
     {
@@ -771,13 +801,15 @@
     {
         "name": "hsr",
         "coins": [
-            "HSR"
+            "HSR",
+			"Zpool-hsr"
         ]
     },
     {
         "name": "m7m",
         "coins": [
-            "XMG"
+            "XMG",
+			"Zpool-m7m"
         ]
     },
     {
@@ -789,7 +821,8 @@
     {
         "name": "phi2",
         "coins": [
-            "LUX"
+            "LUX",
+			"Zpool-phi2"
         ]
     },
     {
@@ -802,14 +835,16 @@
         "name": "x16s",
         "coins": [
             "PGN",
-            "RBBT"
+            "RBBT",
+			"Zpool-x16s"
         ]
     },
     {
         "name": "yescryptr16",
         "coins": [
             "ELI",
-            "YTN"
+            "YTN",
+			"Zpool-yescryptr16"
         ]
     },
     {
@@ -852,7 +887,8 @@
         "name": "x11gost",
         "coins": [
             "SIB",
-            "Nicehash-X11gost"
+            "Nicehash-X11gost",
+			"Zpool-sib"
         ]
     },
         {

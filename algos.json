@@ -272,6 +272,7 @@
             "BPG",
             "GIN",
             "GLYNO",
+            "GTM",
             "IFX",
             "MANO",
             "MCT",
@@ -279,7 +280,7 @@
             "VTL",
             "XZC",
             "Nicehash-Lyra2Z",
-			"Zpool-lyra2z"
+            "Zpool-lyra2z"
         ]
     },
     {
@@ -294,7 +295,7 @@
             "XMY",
             "XSH",
             "XVG",
-			"Zpool-myr-gr"
+            "Zpool-myr-gr"
         ]
     },
     {

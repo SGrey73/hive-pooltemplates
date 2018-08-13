@@ -12,7 +12,15 @@
         "miners": {
             "claymore": {
                 "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
-				}
+			},
+			"ethminer": {
+				"cuda": 1,
+				"pass": "x",
+				"port": "%URL_PORT%",
+				"server": "stratum1+tcp://%URL_HOST%",
+				"template": "%WAL%.%WORKER_NAME%",
+				"user_config": "--farm-recheck 2000"
+			}
         }
     },
     {
@@ -28,7 +36,15 @@
         "miners": {
             "claymore": {
                 "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
-        	}
+			},
+			"ethminer": {
+				"cuda": 1,
+				"pass": "x",
+				"port": "%URL_PORT%",
+				"server": "stratum1+tcp://%URL_HOST%",
+				"template": "%WAL%.%WORKER_NAME%",
+				"user_config": "--farm-recheck 2000"
+			}
         }
     },
     {
@@ -44,7 +60,15 @@
         "miners": {
             "claymore": {
                 "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
-				}
+			},
+			"ethminer": {
+				"cuda": 1,
+				"pass": "x",
+				"port": "%URL_PORT%",
+				"server": "stratum1+tcp://%URL_HOST%",
+				"template": "%WAL%.%WORKER_NAME%",
+				"user_config": "--farm-recheck 2000"
+			}
         }
     },
     {
@@ -60,39 +84,15 @@
         "miners": {
             "claymore": {
                 "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
-				}
-        }
-    },
-    {
-        "coin": "ETC",
-        "servers": [
-            {            
-                "geo": null,
-                "urls": [
-                    "etc.pool.sexy:10042"
-                ]
-            }
-        ],
-        "miners": {
-            "claymore": {
-                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
-				}
-        }
-    },
-    {
-        "coin": "ETH",
-        "servers": [
-            {            
-                "geo": null,
-                "urls": [
-                    "eth.pool.sexy:10002"
-                ]
-            }
-        ],
-        "miners": {
-            "claymore": {
-                "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
-				}
+			},
+			"ethminer": {
+				"cuda": 1,
+				"pass": "x",
+				"port": "%URL_PORT%",
+				"server": "stratum1+tcp://%URL_HOST%",
+				"template": "%WAL%.%WORKER_NAME%",
+				"user_config": "--farm-recheck 2000"
+			}
         }
     },
     {
@@ -108,6 +108,14 @@
         "miners": {
             "claymore": {
                 "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
+			},
+			"ethminer": {
+				"cuda": 1,
+				"pass": "x",
+				"port": "%URL_PORT%",
+				"server": "stratum1+tcp://%URL_HOST%",
+				"template": "%WAL%.%WORKER_NAME%",
+				"user_config": "--farm-recheck 2000"
 			}
         }
     },
@@ -124,7 +132,15 @@
         "miners": {
             "claymore": {
                 "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
-				}
+			},
+			"ethminer": {
+				"cuda": 1,
+				"pass": "x",
+				"port": "%URL_PORT%",
+				"server": "stratum1+tcp://%URL_HOST%",
+				"template": "%WAL%.%WORKER_NAME%",
+				"user_config": "--farm-recheck 2000"
+			}
         }
     },
     {
@@ -140,7 +156,15 @@
         "miners": {
             "claymore": {
                 "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
-				}
+			},
+			"ethminer": {
+				"cuda": 1,
+				"pass": "x",
+				"port": "%URL_PORT%",
+				"server": "stratum1+tcp://%URL_HOST%",
+				"template": "%WAL%.%WORKER_NAME%",
+				"user_config": "--farm-recheck 2000"
+			}
         }
     },
     {
@@ -156,7 +180,15 @@
         "miners": {
             "claymore": {
                 "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
-				}
+			},
+			"ethminer": {
+				"cuda": 1,
+				"pass": "x",
+				"port": "%URL_PORT%",
+				"server": "stratum1+tcp://%URL_HOST%",
+				"template": "%WAL%.%WORKER_NAME%",
+				"user_config": "--farm-recheck 2000"
+			}
         }
     },
     {
@@ -172,7 +204,15 @@
         "miners": {
             "claymore": {
                 "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
-				}
+			},
+			"ethminer": {
+				"cuda": 1,
+				"pass": "x",
+				"port": "%URL_PORT%",
+				"server": "stratum1+tcp://%URL_HOST%",
+				"template": "%WAL%.%WORKER_NAME%",
+				"user_config": "--farm-recheck 2000"
+			}
         }
     },
     {
@@ -188,7 +228,15 @@
         "miners": {
             "claymore": {
                 "epools_tpl": "POOL: %URL%, WALLET: %WAL%, WORKER: %WORKER_NAME%, PSW: x, ALLPOOLS: 1"
-				}
+			},
+			"ethminer": {
+				"cuda": 1,
+				"pass": "x",
+				"port": "%URL_PORT%",
+				"server": "stratum1+tcp://%URL_HOST%",
+				"template": "%WAL%.%WORKER_NAME%",
+				"user_config": "--farm-recheck 2000"
+			}
         }
     }
 ]

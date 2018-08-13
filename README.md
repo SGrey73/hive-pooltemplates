@@ -17,16 +17,16 @@ If you want your pool to be listed here then create yourpool.json and push it, w
 `%WORKER_NAME%` - worker name (from rig name)
 
 ## Pool template example
-```
+```javascript
 [
     {
         "coin": "ETH",  // coin name
         "servers": [    // pool addresses array
             {
-                "geo": "Europe", // geo location, in some cases maybe null if unknown or you can indicate port difficulty 
+                "geo": "Europe", // geo location, maybe null if unknown or in some cases you can indicate port difficulty 
                 "urls": [
-                    "eu1-eth.hiveon.net:4444",  // pool URL  and port
-                    "eu1-eth.hiveon.net:14444"
+                    "eu1-eth.hiveon.net:4444",  // pool server URL  and port
+                    "eu1-eth.hiveon.net:14444"  // another server instance
                 ]
             }
         ],

@@ -30,7 +30,7 @@ Available miners:
 - dstm
 - bminer
 - lolminer
-- optiminer
+- optiminer (depricated)
 - xmr-stak - XMR-Stak (AMD,NVidia,CPU cryptonight variants algo)
 - xmrig - XMRig (CPU cryptonight variants miner)
 - cpuminer-opt - cpuminer-opt (CPU miner)

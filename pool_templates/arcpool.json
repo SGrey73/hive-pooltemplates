@@ -1,31 +1,5 @@
 [
     {
-        "coin": "DIN",
-        "servers": [
-            {
-                "geo": null,
-                "urls": [
-                    "eu1.arcpool.com:1112"
-                ]
-            }
-        ],
-        "miners": {
-            "ccminer": {     
-                "ccurl": "stratum+tcp://%URL%",
-                "ccuser": "%WAL%",
-                "ccalgo": "neoscrypt",
-                "ccpass": "c=DIN"
-            },
-            "sgminer-gm": {     
-                "url": "stratum+tcp://%URL%",
-                "algo": "neoscrypt",
-                "pass": "c=DIN", 
-                "template": "%WAL%",
-                "user_config": "\"rawintensity\" : \"5120\"\n\"worksize\" : \"256\"\n\"lookup-gap\" : \"2\"\n\"thread-concurrency\" : \"8192\"\n\"shaders\" : \"0\"\n\"gpu-threads\" : \"2\""
-            }
-        }
-    },
-    {
         "coin": "SUN",
         "servers": [
             {
